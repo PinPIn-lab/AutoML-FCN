@@ -45,7 +45,7 @@ FCN_Seg_API.exe imgDir, labelDir, inceptionresnetv2, mobilenetv2, resnet50, resn
 
 **Example CLI:**
 ```markdown
-FCN_Seg_API.exe ('img\','label\', '0', '1', '0', '0', '0', '1', '1', '0', '5', '5', '1', '1')
+FCN_Seg_API.exe img\ label\ 0 1 0 0 0 1 1 0 5 5 1 1 
 ```
 [Google Drive Link](https://drive.google.com/drive/folders/1Eiuom5CHP-DnSojIsTEr0TsfTSUK6vU7?usp=sharing)
 
