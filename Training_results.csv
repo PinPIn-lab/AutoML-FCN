@@ -1,0 +1,4 @@
+FCN, Optimizer, Batch, Epoch, MeanIoU, MeanBFScore
+inceptionresnetv2,adam,3,5,0.990743,0.977333
+inceptionresnetv2,sgdm,3,5,0.994770,0.985471
+inceptionresnetv2,rmsprop,3,5,0.961744,0.901084
